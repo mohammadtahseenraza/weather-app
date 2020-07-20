@@ -5,15 +5,15 @@ SPAN:- The HTML <span> element is an inline container for phrasing content, whic
 BODY {
                                  height: 100vh(100vw means 100% of the viewport width. 100vh; 100%                                  of the height. Very handy when doing full-screen slides…)
                                  }
-                5.background-image: linear-gradient(       ,               )
+                background-image: linear-gradient(       ,               )
                    IN THIS WE CAN BLENFD TWO COLOURS.
-                6.rem - relative to the font size of the root element.  
-                7.EVENT LISTENER
+                rem - relative to the font size of the root element.  
+                EVENT LISTENER
             element.addEventListener(event, function, useCapture);    
-                8. " = > "  It's a new feature introduced in ES6 and is called arrow function. The                                 left part denotes the input of a function and the right part the output                                   of that function.               
-                9.OBJECT DESTRUCTURING 
-                    SYNTAX
+                 " = > "  It's a new feature introduced in ES6 and is called arrow function. The                                 left part denotes the input of a function and the right part the output                                   of that function.               
+                OBJECT DESTRUCTURING 
+                   SYNTAX
                                       const { the data to be extracted } = location ; 
                   object destructuring is mainly used to extract the data and display it on the web dom.
-              10. WEATHER APP IS CREATED JUST COPY THE ABOVE HTML, CSS, JS CODE
+               WEATHER APP IS CREATED JUST COPY THE ABOVE HTML, CSS, JS CODE
                     AND MAKE YOUR ON APP BY CUSTOMIZING VARIOUS DETAILS..😃😃😃
